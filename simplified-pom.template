@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.groupdocs</groupId>
-    <artifactId>groupdocs-editor-cloud</artifactId>
+    <artifactId>groupdocs-editor-cloud-android</artifactId>
     <version>{VERSION}</version>
     <packaging>jar</packaging>
 
-    <name>groupdocs-editor-cloud</name>
+    <name>groupdocs-editor-cloud-android</name>
     <description>GroupDocs.Editor Cloud allows you to edit most popular document formats using 3rd party front-end WYSIWYG editors without any additional applications. No Open Office or MS Office is required to edit a word or spreadsheet document. Edit DOCX/DOC, PPTX/PPT, XLSX/XLS, ODT, ODS, ODP, TSV/DSV, TXT and many other document formats with GroupDocs.Editor Cloud API.</description>
-    <url>https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-java</url>
+    <url>https://github.com/groupdocs-editor-cloud/groupdocs-editor-cloud-android</url>
 
     <licenses>
         <license>
