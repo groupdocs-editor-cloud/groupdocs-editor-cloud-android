@@ -33,7 +33,7 @@ repositories {
 ...
 dependencies {
     ...
-    implementation 'com.groupdocs:groupdocs-editor-cloud:21.7'
+    implementation 'com.groupdocs:groupdocs-editor-cloud:22.5'
 }
 ```
 
